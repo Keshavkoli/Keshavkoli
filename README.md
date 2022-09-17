@@ -14,9 +14,12 @@
 <h3 align="left">Learned and working on Languages</h3>
 <div>
 <p align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/core-java.png" alt="Core Java tutorial" src="https://static.javatpoint.com/images/homeicon/core-java.png">Java</a>
+</div>
 
+<div>
 <p align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/collections.png" alt="Java Collections tutorial" src="https://static.javatpoint.com/images/homeicon/collections.png">Collections</a>
 </div>
+
 <h3 align="left">Learned and Working on J2EE Languages</h3>
 
 <p align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/jsp.png" alt="Java JSP tutorial" src="https://static.javatpoint.com/images/homeicon/jsp.png">JSP</a> 
