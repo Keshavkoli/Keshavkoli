@@ -15,7 +15,7 @@
 
 <p align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/core-java.png" alt="Core Java tutorial" src="https://static.javatpoint.com/images/homeicon/core-java.png"><p>Java</p></a> 
 
-<p align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/servlet.png" alt="Java Servlet tutorial" src="https://static.javatpoint.com/images/homeicon/servlet.png"><p>Servlet</p></a> 
+<p align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/servlet.png" alt="Java Servlet tutorial" src="https://static.javatpoint.com/images/homeicon/servlet.png">Servlet</a> 
 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><p>HTML</p></a> 
   
