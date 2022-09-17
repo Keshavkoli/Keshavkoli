@@ -11,8 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/keshavkoli" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="keshav" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/core-java.png" alt="Core Java tutorial" src="https://static.javatpoint.com/images/homeicon/core-java.png"><p>Java</p></a> 
