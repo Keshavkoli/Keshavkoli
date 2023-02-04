@@ -1,34 +1,30 @@
 <h1 align="center">Hi 👋, I'm Keshav koli</h1>
 <h3 align="center">A passionate Java Developer</h3>
 
-
-- 🔭 I’m Interested in **Java Development**
-
-- 🌱 I’m currently learning **Java and SpringMvc**
-
-- 📫 How to reach me **keshavkoli191@gmail.com**
+<a>- 🔭 I’m Interested in **Java Development**</a>
+<p>
+<a>- 🌱 I’m currently learning **SpringMvc and SpringBoot**</a>
+</p>
+<a>- 📫 How to reach me **keshavkoli191@gmail.com**</a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<a align="left">
 <a href="https://linkedin.com/in/keshavkoli" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="keshav" height="30" width="40" /></a>
 <h3 align="left">Languages</h3>
-<div>
-<p align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/core-java.png" alt="Core Java tutorial" src="https://static.javatpoint.com/images/homeicon/core-java.png">Java</a>
-</div>
+<a align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/core-java.png" alt="Core Java tutorial" src="https://static.javatpoint.com/images/homeicon/core-java.png">Java</a>
 
-<div>
-<p align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/collections.png" alt="Java Collections tutorial" src="https://static.javatpoint.com/images/homeicon/collections.png">Collections</a>
-</div>
+<a align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/collections.png" alt="Java Collections tutorial" src="https://static.javatpoint.com/images/homeicon/collections.png">Collections</a>
+
 
 <h3 align="left">J2EE Languages</h3>
 
-<p align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/jsp.png" alt="Java JSP tutorial" src="https://static.javatpoint.com/images/homeicon/jsp.png">JSP</a> 
+<a align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/jsp.png" alt="Java JSP tutorial" src="https://static.javatpoint.com/images/homeicon/jsp.png">JSP</a> 
 
-<p align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/servlet.png" alt="Java Servlet tutorial" src="https://static.javatpoint.com/images/homeicon/servlet.png">Servlet</a> 
+<a align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/servlet.png" alt="Java Servlet tutorial" src="https://static.javatpoint.com/images/homeicon/servlet.png">Servlet</a> 
 
-<p align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/spring.png" alt="Spring framework tutorial" src="https://static.javatpoint.com/images/homeicon/spring.png">Spring FrameWork</a> 
+<a align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/spring.png" alt="Spring framework tutorial" src="https://static.javatpoint.com/images/homeicon/spring.png">Spring FrameWork</a> 
 
-<p align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/spring.png" alt="Spring framework tutorial" src="https://static.javatpoint.com/images/homeicon/spring.png">Spring Mvc</a> 
+<a align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/spring.png" alt="Spring framework tutorial" src="https://static.javatpoint.com/images/homeicon/spring.png">Spring Mvc</a> 
 
 <h3 align="left">Web-Tecnologies</h3>
 
