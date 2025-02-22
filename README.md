@@ -27,7 +27,7 @@
 
 <a align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/spring.png" alt="Spring framework tutorial" src="https://static.javatpoint.com/images/homeicon/spring.png">Spring Mvc</a> 
 
-<a align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/spring-boot.png" alt="Spring framework tutorial" src="https://static.javatpoint.com/images/homeicon/spring.png"> SpringBoot</a>
+<a align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/spring-boot.png" alt="Spring framework tutorial" src="https://static.javatpoint.com/images/homeicon/spring-boot.png"> SpringBoot</a>
 
 <h3 align="left">Web-Tecnologies</h3>
 
