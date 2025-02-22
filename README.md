@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <a align="left">
 <a href="https://linkedin.com/in/keshavkoli" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="keshav" height="30" width="40" /></a>
+  &lbsp; &lbsp; &lbsp; &lbsp; 
 <h3 align="left">Languages</h3>
 <a align="left"><img class=" lazyloaded" data-src="https://static.javatpoint.com/images/homeicon/core-java.png" alt="Core Java tutorial" src="https://static.javatpoint.com/images/homeicon/core-java.png">Java</a>
 
